@@ -1,0 +1,26 @@
+{
+  "name": "review-movie-app-back-end",
+  "version": "1.0.0",
+  "description": "backend server for review movie app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docuong0912/Review-movie-app-back-end.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "cuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docuong0912/Review-movie-app-back-end/issues"
+  },
+  "homepage": "https://github.com/docuong0912/Review-movie-app-back-end#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
